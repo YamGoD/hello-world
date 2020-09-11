@@ -1,1 +1,2 @@
 # hello-world
+YamGoD here. I like node.js and Coffeescript
